@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - :email: E-mail: protossnamjune2nd@gmail.com / namhv.ictlab@gmail.com
 
-![Protossnam's Github Stats](https://github-readme-stats.vercel.app/api?username=Protossnam&show_icons=true&theme=cobalt)
+![Protossnam's Github Stats](https://github-readme-stats.vercel.app/api?username=Protossnam&show_icons=true&theme=dracula)
