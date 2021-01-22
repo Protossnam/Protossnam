@@ -1,4 +1,4 @@
-### Hi there 👋
+### En Taro Data Scientists, Executor Protossnam has arrived!
 
 <!--
 **Protossnam/Protossnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :computer: Career: I’m a Vietnamese Data Scientist!
+- :mortar_board: Education: Currently, I'm a Master student who enthusiast on **Deep Learning** + **Computer Vision**!
+- ⚡ Fact: **Protos** means "first" - a word that derived from the ancient Greek *πρῶτος*
+
+- :email: E-mail: protossnamjune2nd@gmail.com / namhv.ictlab@gmail.com
+
+![Protossnam's Github Stats](https://github-readme-stats.vercel.app/api?username=Protossnam&show_icons=true&theme=cobalt)
